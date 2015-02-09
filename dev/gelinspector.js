@@ -108,7 +108,7 @@ var GetProperties = function() {
 
 		if(DEBUG && style) console.log('%cRule-sets: ' + style.length, 'font-size:20px;');
 
-		for(var i = 0; i < style.length; i++) {
+		for(var i = style.length - 1; i >= 0; i--) {
 
 			for(var s = style[i].style.length - 1; s >= 0; s--) {
 				var searchString = '*' + style[i].style[s] + '*';
@@ -132,7 +132,7 @@ var GetProperties = function() {
 
 		};
 
-		if(DEBUG) console.log(output);
+		if(DEBUG) console.log('%cDuplications: ' + ticked, 'font-size:20px;');
 
 		return output;
 	}

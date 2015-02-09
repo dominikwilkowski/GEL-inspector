@@ -1,7 +1,7 @@
 {
 	"name": "GEL inspector",
-	"version": "0.1",
+	"version": "0.1.1",
 	"description": "Shows GEL color names in the Developer Tools.",
-	"devtools_page": "devtools.html",
+	"devtools_page": "gelinspector.html",
 	"manifest_version": 2
 }
