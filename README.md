@@ -5,7 +5,7 @@ GEL inspector
 
 
 ## Install
-Open [this link](https://chrome.google.com/webstore/detail/gel-inspector/bgdeppahhmkdablnokohmilpaikhiffn) and install the extenstion in yout chrome browser.
+Open [this link](https://chrome.google.com/webstore/detail/gel-inspector/bgdeppahhmkdablnokohmilpaikhiffn) and install the extenstion in your chrome browser.
 
 
 ## Contributing
@@ -19,7 +19,8 @@ grunt
 
 
 ## Release History
-* 0.1.0 - fixed native for loop and css specificity
+* 0.1.2 - fixed build tool
+* 0.1.1 - fixed native for loop and css specificity
 * 0.1.0 - first release
 
 
