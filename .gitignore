@@ -10,3 +10,4 @@ tmp
 .sass-cache
 .idea
 npm-debug.log
+PROD
