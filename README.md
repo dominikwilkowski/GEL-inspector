@@ -19,6 +19,7 @@ grunt
 
 
 ## Release History
+* 0.1.3 - added new GEL color scheme, added icon
 * 0.1.2 - fixed build tool
 * 0.1.1 - fixed native for loop and css specificity
 * 0.1.0 - first release
